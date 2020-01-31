@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns="http://www.w3.org/ns/widgets" 
 	xmlns:gap="http://phonegap.com/ns/1.0" 
-	id="com.yourname.yourgamename" 
+	id="es.apps.josek5494.adstestadmobfree" 
 	version="1" android-versionCode="1"
 >
-	<name>Your Game Name</name>
-	<description>Your Game Descriptions</description>
-	<author href="Yourweb.com" email="youremail@gmail.com">Your Name</author>
+	<name>New project</name>
+	<description>Testing</description>
+	<author href="app" email="app@gmail.com">Your Name</author>
 
 	
 	<content src="index.html"/>
@@ -35,7 +35,7 @@
 	<feature name="http://api.phonegap.com/1.0/network"/>
 	<feature name="http://api.phonegap.com/1.0/file" />
 	<preference name="phonegap-version" value="cli-9.0.0" />
-	<preference name="orientation" value="landscape" />
+	<preference name="orientation" value="portrait" />
 	<preference name="fullscreen" value="true" />
 
 
@@ -48,7 +48,7 @@
 	<plugin name="cordova-plugin-media" />
 	<plugin name="cordova-plugin-admob-free"> 
 	
-		<variable name="ADMOB_APP_ID" value="ca-app-pub-3940256099942544~3347511713" /> 
+		<variable name="ADMOB_APP_ID" value="ca-app-pub-4773834837509883~4109914099" /> 
 	</plugin>
 
 	<!-- Optional splash screen image, e.g.: -->
